@@ -9,3 +9,8 @@
 ## Задание 2
 
 [Commit ".gitignore"](https://github.com/elekpow/gitlab-hw/commit/06be8ac39f2780747de970f98cd8f15f174ed8b7) 
+
+
+### Задание 2
+
+[Commit graf](https://github.com/elekpow/gitlab-hw/network)
