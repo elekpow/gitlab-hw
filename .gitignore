@@ -1,5 +1,5 @@
 #ignore files .pyc
-*.pyc
+*.pyc-
 
 #ignore all files in ./cache
 ~./cache/*
