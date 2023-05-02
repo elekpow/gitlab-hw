@@ -1,5 +1,0 @@
-#ignore files ".pyc"
-*.pyc
-
-#ignore all files in directory "cache"
-cache/*
