@@ -46,7 +46,7 @@
 
 ***Выполнение задания***
 
-[Commit ".gitignore"](https://github.com/elekpow/gitlab-hw/commit/06be8ac39f2780747de970f98cd8f15f174ed8b7) 
+[Commit ".gitignore"](https://github.com/elekpow/gitlab-hw/commit/0efa44afd655f02fcb0bce63ee03b2ec0c762490) 
 
 
 
